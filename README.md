@@ -9,5 +9,3 @@ A simple Spotify-inspired music player built with HTML, CSS, and JavaScript. Use
 - Smooth and responsive design
 - Animated playback (GIFs, icons, etc.)
 
-## 📁 Project Structure
-
